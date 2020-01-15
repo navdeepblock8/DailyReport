@@ -33,7 +33,7 @@
 
 11:30-12:30 -->   Typescript
 
-12:30-13:30 -->  Typescript
+12:30-13:30 -->  Session on Use Case
 
 13:30-14:30 -->  Lunch
 

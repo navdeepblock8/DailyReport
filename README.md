@@ -39,7 +39,7 @@
 
 14:30-15:30 -->  Typescript
 
-15:30-16:30 --> Session on Node js architecture
+15:30-16:30 --> Typescript
 
 16:30-17:30 -->  Typescript
 

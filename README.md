@@ -130,9 +130,10 @@
 
 <p>10:15-10:30 -->    Standup 
 
-10:30-11:30 --> Ethical Hacking basics
+10:30-11:30 --> Load Testing
 
 11:30-12:30 -->   Ethical hacking basics
+
 12:30-13:30 -->  Working on Metasploit
 
 13:30-14:30 -->  Lunch
